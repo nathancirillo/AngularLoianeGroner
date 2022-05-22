@@ -25,5 +25,5 @@ class Matematica {
 }
 
 //Type Script - does not work!
-var n1:string = 'Nathan Cirillo';
-n1 = 20; 
+// var n1:string = 'Nathan Cirillo';
+// n1 = 20; 
